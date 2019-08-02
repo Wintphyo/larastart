@@ -14,10 +14,10 @@ Starter Admin For Laravel. Try fixing some bugs refernced and guided from https:
 * Run composer install
 * Create a database in your db server(Mysql, Postgres, Mssql, MongoDB)
 * Save as the .env.example to .env and set your database information
-* Run php artisan key:generate to generate the app key
 * Run npm install
+* Run php artisan key:generate to generate the app key
 * Run php artisan migrate
-* Install laravel passport, Run php artisan passport:install
+* To Install laravel passport, Run php artisan passport:install
 * Done !!! Enjoy Customizing and building awesome app
 
 ### Running Application ###
